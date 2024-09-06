@@ -42,7 +42,7 @@ Este projeto tem como objetivo gerenciar informações básicas sobre áreas de 
 
 Este projeto tem como objetivo gerenciar informações sobre conservação marinha com um nível de complexidade intermediário, utilizando conceitos avançados como enumeradores, herança, e data classes. O projeto inclui a criação de classes e subclasses para representar áreas de conservação marinha, bem como o uso de enumeradores para tipos de ambientes.
 
-ENUMERADORES
+**`ENUMERADORES`**
 
 - **`TiposAmbientes`**
     - Enumeração que define os diferentes tipos de ambientes marinhos:
@@ -51,7 +51,7 @@ ENUMERADORES
         - `RECIFE`
         - `ESTUARIO`
 
-CLASSES
+**`CLASSES`**
 
 1. **`ConservacaoMarinha`** (Classe abstrata)
     - Propriedades Abstratas:
